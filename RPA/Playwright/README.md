@@ -24,10 +24,8 @@ RPA/Playwright/
 │
 ├─ playwright_search.py
 ├─ README.md
-├─ demo_video.mp4
-├─ requirements.txt
-├─ .gitignore
 
+Demo video: https://drive.google.com/file/d/1-mQj4wJm1NuLjC_CYmimA3i3ESaNS9zM/view?usp=sharing
 
 ---
 
