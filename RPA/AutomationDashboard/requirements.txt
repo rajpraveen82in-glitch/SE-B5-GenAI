@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-selenium
-streamlit
-pandas
-requests
