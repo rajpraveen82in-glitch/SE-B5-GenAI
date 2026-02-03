@@ -92,4 +92,4 @@ A complete walkthrough of the automation execution:
 - Selenium automation
 - CSV output
 
-📺 Video: RPA_Automation_Demo_FastAPI_Selenium_Streamlit.mp4
+📺 Video: https://drive.google.com/file/d/1JtxdJuNUq7OwBxqMGHbe1advzJaXNwAC/view?usp=sharing
