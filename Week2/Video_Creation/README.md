@@ -52,3 +52,6 @@ The image files were generated via **Nano Banana / Google Flow Veo** using the f
 ### Outcome
 
 The final video reflects confidence, achievement, collaboration, and continuity — capturing the spirit of the Social Eagle Academy Gen AI Architect offline session and its learning impact.
+
+### Final video link: https://drive.google.com/file/d/153Wk6foUquhDNqWavy7sM4d0GHTrXJt1/view?usp=sharing
+
