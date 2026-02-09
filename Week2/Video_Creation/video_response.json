@@ -1,0 +1,6 @@
+{
+    "status": "success",
+    "message": "Video generation initiated",
+    "video_url": "https://example.com/generated/genai_class_video.mp4",
+    "submitted_at": "2026-02-04T21:36:23.974654"
+}

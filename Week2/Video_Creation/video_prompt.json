@@ -1,0 +1,9 @@
+{
+  "model": "gpt-video-1",
+  "prompt": "A short cinematic video of an online Generative AI class conducted by a mentor from Social Eagle Academy. The mentor appears confident and professional on a virtual teaching screen. Batch-5 students appear in animated video tiles, engaged, smiling, and interacting. Smooth transitions highlight AI concepts such as 'Prompt Engineering', 'LLMs', and 'Gen AI Architect'. The video ends with an inspirational message showing learners excited to achieve their goal by March 2026.",
+  "duration": "10s",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "cinematic",
+  "quality": "high"
+}
